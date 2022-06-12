@@ -2,8 +2,7 @@
 # coding: utf-8
 
 # In[69]:
-
-
+# Tapha sagna
 import pyspark
 pyspark.__version__
 
